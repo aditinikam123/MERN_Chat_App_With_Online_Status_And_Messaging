@@ -62,21 +62,4 @@ npm start
 
 ---
 
-## 📌 Upcoming Features
 
-- 📲 Full mobile responsiveness
-- ✅ Read Receipts
-- 🔒 End-to-End Encryption
-- 🌍 Deployed version with CI/CD
-
----
-
-## ✨ Developed by
-
-**Aditi Avinash Nikam**  
-📍 `@aditinikam123`  
-🎓 KLE Technological University
-
----
-
-## 📸 Screenshots (Coming Soon!)
